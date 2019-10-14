@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 set -x
 RUNTIME=${1:-rtpengine}
 
